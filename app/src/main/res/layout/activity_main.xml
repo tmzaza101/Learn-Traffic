@@ -36,5 +36,5 @@
         android:layout_below="@+id/textView"
         android:layout_above="@+id/button"
         android:layout_margin="20dp"
-        android:background="#7db2cde1" />
+        android:background="#82e8b1b1" />
 </RelativeLayout>
